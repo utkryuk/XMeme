@@ -1,6 +1,6 @@
 # :zap: XMEME
 
-This is a basic full web stack application made using MEAN stack.
+This is a basic full web stack application made using MERN stack.
 
 ## Deployed Links
 
