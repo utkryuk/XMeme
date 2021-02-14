@@ -10,7 +10,7 @@
 
 chmod +x install.sh
 
-sudo ./install.sh
+sudo ./install.sh &
 
 
 # 1. Run the user’s server execution steps which will bring up the server
