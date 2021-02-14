@@ -1,6 +1,6 @@
 require('dotenv').config()
 
-const PORT = process.env.PORT || 3004
+const PORT = process.env.PORT || 8081
 
 let MONGODB_URI = process.env.MONGODB_URI
 
