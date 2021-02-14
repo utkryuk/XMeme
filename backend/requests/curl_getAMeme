@@ -1,0 +1,1 @@
+curl --location --request GET 'http://localhost:3002/memes/6022628bb88da5ca455d61fa'
